@@ -1,6 +1,6 @@
 <style>
 foot {
-                position: absolute; 
+                align: center; 
                 bottom: 0px; 
   }
 </style>
