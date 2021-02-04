@@ -1,7 +1,7 @@
 <style>
 foot {
-  bottom: 0;
-  left: 0;
+                position: absolute; 
+                bottom: 0px; 
   }
 </style>
 # dis is for archives and diary stories!
@@ -16,7 +16,7 @@ foot {
 
 
 
-<hr>
-<div id="foot" align="center">
+<div id="foot">
+ <hr>
 <img src="https://img.shields.io/badge/Built%20With-%20%E2%9D%A4%20-red" alt="Built With ❤ ">
 </div>
